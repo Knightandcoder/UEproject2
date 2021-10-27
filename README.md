@@ -1,5 +1,9 @@
 # 游戏模式  第二次课作业
 
+链接：https://pan.baidu.com/s/1ZPND89mr7_mvkCGXbnW8EA 
+提取码：kksk 
+
+
 ### 倒计时与弹结算UI：
 
 做出的修改：
