@@ -1,0 +1,1 @@
+ "G:\UnrealEngine-4.27\Engine\Binaries\Win64\UE4Editor.exe" "%CD%\Netshoot.uproject" MainMenu -game -log -nosteam
